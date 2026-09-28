@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 ## 😄 Pronouns: ...
 ⚡ Fun fact: ...
 
+## 🌱 Learning GitHub
+
+I’m learning Git, GitHub, branches, commits, and pull requests.
