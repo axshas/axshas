@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 ## 🌱 Learning GitHub
 
 I’m learning Git, GitHub, branches, commits, and pull requests.
+concepts such as comment, approve, request changes, and merge.
