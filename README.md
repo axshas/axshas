@@ -22,4 +22,5 @@ git add README.md
 git commit -m "Add GitHub learning note"
 git push -u origin learning-github
 git push -u origin learning-github
-
+## My GitHub Practice
+I made this change locally using Git.
